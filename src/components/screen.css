@@ -26,21 +26,22 @@
 }
 
 .side-menu .active {
-  background-color: #041b3d;
+  background-color: #5f799f;
   color: white;
   transition: 0.1s ease-out;
 }
 
 .display {
   position: absolute;
-  background-image: url("/public/ncs.webp");
+  background-image: url("/public/dancing.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left;
   border-radius: 8px;
 
-  width: 300px;
-  height: 180px;
+  width: 305px;
+  height: 220px;
+ 
 }
 
 .display h2 {
@@ -52,7 +53,7 @@
   padding: 0;
 }
 .display img {
-  width: 208px;
-  height: 180px;
+  width: 305px;
+  height: 220px;
   border-radius: 8px;
 }

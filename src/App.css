@@ -2,14 +2,14 @@
   text-align: center;
   padding: 10px;
   border-style: none;
-  background-color: rgb(101 176 235);
+  background-color: rgb(97, 176, 184);
   position: absolute;
   height: 440px;
   width: 300px;
   left: 40%;
   top: 180px;
   border-radius: 20px;
-  box-shadow: 0px 0px 10px 6px #0070ff inset;
+  box-shadow: 0px 0px 10px 6px #1ccba0 inset;
 }
 
 .App-logo {
