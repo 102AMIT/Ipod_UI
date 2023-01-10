@@ -124,7 +124,7 @@ function App() {
         {/* display section */}
         <div className="display">
           <h2>{visibility ? "" : activeItem[0].listItem}</h2>
-          {activeItem.src && <img src={visibility ? "" : activeItem.src} />}
+          {activeItem.src && <img src={visibility ? "" : activeItem.src} alt="img-loading"/>}
         </div>
       </div>
 
